@@ -1,6 +1,7 @@
 import React from "react";
 import { render } from "@testing-library/react";
 import Episodes from "./Episodes";
+import App from "../App";
 // test("Episodes Render Correctly", () => {
 //   const mockEpisodes = jest.fn();
 //   const { getByText, queryByText } = render(
